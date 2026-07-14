@@ -1,5 +1,5 @@
 # apnacollage
 this is my frist git repository
 <br>
-Auther- Gayuuuu Dhore
+Auther- Gayuuuu Dhore(gauri)
 
